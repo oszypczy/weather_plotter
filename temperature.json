@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Warsaw",
+    "date": "2023-01-29 12:00",
+    "temperature": 7
+  },
+  {
+    "city": "Warsaw",
+    "date": "2023-01-28 12:00:00",
+    "temperature": 7
+  },
+  {
+    "city": "Warsaw",
+    "date": "2023-01-27 12:00:00",
+    "temperature": 7
+  },
+  {
+    "city": "Warsaw",
+    "date": "2023-01-26 12:00:00",
+    "temperature": -1
+  },
+  {
+    "city": "Warsaw",
+    "date": "2023-01-25 12:00:00",
+    "temperature": 2
+  },
+  {
+    "city": "Warsaw",
+    "date": "2023-01-24 12:00:00",
+    "temperature": 6
+  },
+  {
+    "city": "London",
+    "date": "2023-01-24 12:00:00",
+    "temperature": 4
+  },
+  {
+    "city": "London",
+    "date": "2023-01-26 12:00:00",
+    "temperature": 0
+  },
+  {
+    "city": "Torun",
+    "date": "2023-01-26 12:00:00",
+    "temperature": 9
+  },
+  {
+    "city": "Torun",
+    "date": "2023-01-25 12:00:00",
+    "temperature": 11
+  },
+  {
+    "city": "Torun",
+    "date": "2023-01-24 12:00:00",
+    "temperature": 10
+  },
+  {
+    "city": "London",
+    "date": "2023-01-25 12:00:00",
+    "temperature": -2
+  }
+]
